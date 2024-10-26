@@ -1,4 +1,4 @@
-# Project 2: Malware Analysis and Prevention Strategy
+#Malware Analysis and Prevention Strategy
 
 ## Project Overview
 This project focuses on the analysis of various types of malware, developing a malware prevention strategy, and implementing **Splunk** as a Security Information and Event Management (SIEM) tool for real-time monitoring and detection. By leveraging in-depth malware research and the use of Splunk, this project strengthens organizational defenses against malware threats.
